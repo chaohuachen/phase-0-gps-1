@@ -4,4 +4,4 @@
 name = "Hugo"
 puts "Hello#{name}"
 ```
-![photo from my partner]("abc.png")
+![photo from my partner]("phase-0-gps-1/abc.png")
